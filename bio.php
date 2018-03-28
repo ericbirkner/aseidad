@@ -7,10 +7,10 @@
       <meta name="theme-color" content="#A01127" />
       
         <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-        <meta property="og:url"                content="http://www.aseidad.cf" />
+        <meta property="og:url"                content="http://www.aseidad.ga" />
         <meta property="og:title"              content="ASEIDAD" />
         <meta property="og:description"        content="Dark Doom Metal From Chile" />
-        <meta property="og:image"              content="http://www.aseidad.cf/images/share_new.jpg" />
+        <meta property="og:image"              content="http://www.aseidad.ga/images/share_new.jpg" />
       
         <link href="css/style.css" rel="stylesheet" type="text/css">
    </head>
