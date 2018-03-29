@@ -6,6 +6,12 @@
 outline: 0;
 }
 
+img[src*="https://cdn.rawgit.com/000webhost/logo/e9bd13f7/footer-powered-by-000webhost-white2.png"]{
+	display: none !important;
+}
+img[alt*="000webhost logo"] {
+    display: none !important;}
+
 body {
   /*background:url(../images/pattern.png) repeat #111;*/
   background:url(../images/pagback.png) no-repeat right bottom #111;
