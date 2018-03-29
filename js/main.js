@@ -91,29 +91,31 @@
 
 // JavaScript Document
 $(document).ready(function(e) {
-    
-	$('svg#culebra path').one('webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend',   
+
+  $('a[title=000webhost logo]').css('display','none');
+
+	$('svg#culebra path').one('webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend',
     function(e) {
 
     	//alert('fin animacion');
 
   	});
-	
+
 	setTimeout(function(){
 		$('svg#culebra').addClass('giro');
 		$('a.link_home').fadeIn('slow');
 	},4000);
-	
-	
+
+
 	$('#nav-icon1,#nav-icon2,#nav-icon3,#nav-icon4').click(function(){
 		$(this).toggleClass('open');
 		$('header ul.menu').slideToggle('slow');
 	});
-	
+
 	$("body").toasty();
-	
+
 	$("header h1").click( function(){
            $("body").toasty('pop');
     });
-	
+
 });
