@@ -92,7 +92,7 @@
 // JavaScript Document
 $(document).ready(function(e) {
 
-  $('a[title=000webhost logo]').css('display','none');
+
 
 	$('svg#culebra path').one('webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend',
     function(e) {
