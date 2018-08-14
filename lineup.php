@@ -30,6 +30,44 @@
          <div id="effects">
             <article id="articlehold">
 
+
+              <!--Shico-->
+             <section>
+                <div class="ss-row emerald go-anim">
+
+                   <div class="hover-effect h-style">
+
+                         <img src="images/preview/aseidad_marcelo.jpg" class="clean-img">
+                         <div class="mask"></div>
+
+                   </div>
+                   <div class="ss-container">
+                      <h3 class="content-title">Marcelo Vivallo</h3>
+                      <div>Vocals</div>
+
+                   </div>
+                </div>
+             </section>
+
+             <!--Eric-->
+             <section>
+                <div class="ss-row emerald go-anim">
+
+                   <div class="hover-effect h-style">
+
+                         <img src="images/preview/aseidad_eric.jpg" class="clean-img">
+                         <div class="mask"></div>
+
+                   </div>
+                   <div class="ss-container">
+                      <h3 class="content-title">Eric Birkner</h3>
+                      <div>Bass, Vocals</div>
+
+                   </div>
+                </div>
+             </section>
+
+
                <!--Pedro-->
                <section>
                   <div class="ss-row turquoise go-anim">
@@ -69,44 +107,9 @@
                   </div>
                </section>
 
-                <!--Shico-->
-               <section>
-                  <div class="ss-row emerald go-anim">
-
-                     <div class="hover-effect h-style">
-
-                           <img src="images/preview/aseidad_marcelo.jpg" class="clean-img">
-                           <div class="mask"></div>
-
-                     </div>
-                     <div class="ss-container">
-                        <h3 class="content-title">Marcelo Vivallo</h3>
-                        <div>Vocals</div>
-
-                     </div>
-                  </div>
-               </section>
-
-               <!--Eric-->
-               <section>
-                  <div class="ss-row emerald go-anim">
-
-                     <div class="hover-effect h-style">
-
-                           <img src="images/preview/aseidad_eric.jpg" class="clean-img">
-                           <div class="mask"></div>
-
-                     </div>
-                     <div class="ss-container">
-                        <h3 class="content-title">Eric Birkner</h3>
-                        <div>Bass, Vocals</div>
-
-                     </div>
-                  </div>
-               </section>
 
 
-
+               <!--Crtl Ql-->
                <section>
                   <div class="ss-row belizehole go-anim">
 
@@ -125,8 +128,8 @@
                </section>
             </article>
 
-            <div class="ss-nav-arrows-next"><span id="next-arrow">&gt;</span></div>
-            <div class="ss-nav-arrows-prev" style=""><span id="prev-arrow">&lt;</span></div>
+            <div class="ss-nav-arrows-next"><span id="next-arrow">〉</span></div>
+            <div class="ss-nav-arrows-prev" style=""><span id="prev-arrow">〈</span></div>
          </div>
       </div>
       <div class="ss-holder">
